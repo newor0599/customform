@@ -39,4 +39,5 @@ button:active{
     outline:none;
     border-bottom:2px solid #EEEEEE;
     margin:10px;
+    text-align:center;
 }
